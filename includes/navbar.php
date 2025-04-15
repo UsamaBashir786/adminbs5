@@ -63,10 +63,9 @@
             <li>
               <hr class="dropdown-divider">
             </li>
-            <li><a class="dropdown-item text-center" href="notifications.php">View All Notifications</a></li>
           </ul>
         </li>
-        <li class="nav-item dropdown">
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMessage" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             <i class="fas fa-envelope"></i>
             <span class="badge bg-danger rounded-pill">3</span>
@@ -101,19 +100,13 @@
             <li>
               <hr class="dropdown-divider">
             </li>
-            <li><a class="dropdown-item text-center" href="messages.php">View All Messages</a></li>
           </ul>
-        </li>
+        </li> -->
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownProfile" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             <img src="img/profile-avatar.jpg" class="rounded-circle" width="30" alt="Profile">
           </a>
           <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownProfile">
-            <li><a class="dropdown-item" href="profile.php">Profile</a></li>
-            <li><a class="dropdown-item" href="settings.php">Settings</a></li>
-            <li>
-              <hr class="dropdown-divider">
-            </li>
             <li><a class="dropdown-item" href="logout.php">Logout</a></li>
           </ul>
         </li>
